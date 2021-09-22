@@ -34,7 +34,7 @@
     "yup": "^0.32.8"
   },
   "scripts": {
-    "start": "HTTPS=true PORT=3000 HOST=localhost react-scripts start",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
@@ -79,5 +79,9 @@
     "eslint-plugin-react": "^7.22.0",
     "run-script-os": "^1.1.5",
     "typescript": "^4.1.2"
-  }
+  },
+  "description": "<div style=\"text-align:center\">\r   <img\r   src=\"https://raw.githubusercontent.com/ElrondNetwork/starter-dapp/master/react-delegationdashboard/preview.png\"\r   alt=\"Elrond Network\">\r </div>\r <br>",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
