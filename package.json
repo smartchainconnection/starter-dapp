@@ -1,0 +1,19 @@
+{
+  "name": "starter-dapp",
+  "version": "1.0.0",
+  "description": "This repo contains subfolders, each named after the framework in which it is built and the contract used as an example (<framework-type>-<contract-type>)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartchainconnection/starter-dapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smartchainconnection/starter-dapp/issues"
+  },
+  "homepage": "https://github.com/smartchainconnection/starter-dapp#readme"
+}
